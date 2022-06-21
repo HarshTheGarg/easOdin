@@ -1,0 +1,35 @@
+body {
+    background-color: #1e1e1e;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.button{
+    margin: 40px;
+    padding: 10px;
+    background-color: #808080;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.main_container {
+    padding: 0;
+    background-color: black;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.row_container {
+    background-color: #909090;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+}
